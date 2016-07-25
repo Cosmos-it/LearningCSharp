@@ -36,36 +36,36 @@ namespace DataStructure
             var seattle = new Cities();
             List<Cities> cities = new List<Cities>();
 
-            seattle.CityName = "Seattle WA";
+            seattle.CityName = "Seattle, WA";
             seattle.CityPopulation = 652405;
 
             var redmond = new Cities();
-            redmond.CityName = "Redmond WA";
+            redmond.CityName = "Redmond, WA";
             redmond.CityPopulation = 57530;
 
 
             var spokane = new Cities();
-            spokane.CityName = "Spokane WA";
+            spokane.CityName = "Spokane, WA";
             spokane.CityPopulation = 208916;
 
             var bellevue = new Cities();
-            bellevue.CityName = "Bellevue MO";
+            bellevue.CityName = "Bellevue, MO";
             bellevue.CityPopulation = 200123;
 
             var everette = new Cities();
-            everette.CityName = "Everette WA";
+            everette.CityName = "Everette, WA";
             everette.CityPopulation = 133992;
 
             var olympia = new Cities();
-            olympia.CityName = "Olympia WA";
+            olympia.CityName = "Olympia, WA";
             olympia.CityPopulation = 48338;
 
             var tacoma = new Cities();
-            tacoma.CityName = "Bellevue WA";
+            tacoma.CityName = "Tacoma, WA";
             tacoma.CityPopulation = 133992;
 
             var ellensburge = new Cities();
-            ellensburge.CityName = "Ellensburge WA";
+            ellensburge.CityName = "Ellensburge, WA";
             ellensburge.CityPopulation = 18111;
 
             cities.Add(seattle);
